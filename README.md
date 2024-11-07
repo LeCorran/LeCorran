@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👀
 ```
 Im learning a bit alone,
 Im gonna post all my project here
